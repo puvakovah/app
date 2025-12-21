@@ -1,15 +1,15 @@
-{ "appId": "io.ionic.starter", "appName": "idealtwin", "webDir": "dist", "bundledWebRuntime": false }  { 
-  "name": "idealtwin-app", 
-  "version": "1.0.0", 
-  "dependencies": { 
-    "@capacitor/core": "^5.0.0", 
-    "@capacitor/ios": "^5.0.0", 
-    "@capacitor/cli": "^5.0.0" 
-  }, 
-  "devDependencies": { 
-    "typescript": "^5.0.0" 
-  }, 
-  "scripts": { 
-    "build": "echo 'No build script needed'" 
-  } 
-} 
+{
+  "name": "idealtwin-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "@capacitor/core": "^5.0.0",
+    "@capacitor/ios": "^5.0.0",
+    "@capacitor/cli": "^5.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "build": "echo 'No build script needed'"
+  }
+}
