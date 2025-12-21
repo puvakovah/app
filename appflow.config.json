@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "appId": "idealtwin-app",
+      "appId": "fd24c53d",
       "root": "./",
       "ios": {
         "projectFile": "ios/App/App.xcodeproj"
