@@ -1,9 +1,4 @@
-platform :ios, '13.0'
-use_frameworks!
-
-target 'App' do
-  pod 'Capacitor', :path => '../../node_modules/@capacitor/ios'
-  pod 'CapacitorCordova', :path => '../../node_modules/@capacitor/ios'
-endtarget 'App' do 
+platform :ios, '13.0' 
+target 'App' do 
   # capacitor_pods 
 end 
