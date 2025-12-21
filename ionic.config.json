@@ -1,0 +1,7 @@
+{
+  "name": "idealtwin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

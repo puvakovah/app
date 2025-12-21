@@ -9,7 +9,9 @@
   "devDependencies": {
     "typescript": "^5.0.0"
   },
-  "scripts": {
-    "build": "echo 'Build script' && mkdir -p dist && touch dist/index.html"
-  }
+ "scripts": {
+  "build": "mkdir -p dist && touch dist/index.html",
+  "ionic:build": "npm run build",
+  "ionic:cap-sync": "npx cap sync ios"
+}
 }
