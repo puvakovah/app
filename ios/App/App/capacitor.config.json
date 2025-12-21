@@ -1,0 +1,7 @@
+{
+	"appId": "com.idealtwin.app",
+	"appName": "idealtwin",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"packageClassList": []
+}
