@@ -9,9 +9,10 @@
   "devDependencies": {
     "typescript": "^5.0.0"
   },
- "scripts": {
+"scripts": {
   "build": "mkdir -p dist && touch dist/index.html",
   "ionic:build": "npm run build",
+  "ionic:cap-copy": "npx cap copy ios",
   "ionic:cap-sync": "npx cap sync ios"
 }
 }
