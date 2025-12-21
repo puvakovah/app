@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">IdealTwin</string>
+    <string name="title_activity_main">IdealTwin</string>
+    <string name="package_name">com.idealtwin.app</string>
+    <string name="custom_url_scheme">com.idealtwin.app</string>
+</resources>
