@@ -2,11 +2,14 @@
   "name": "idealtwin-app",
   "version": "1.0.0",
   "dependencies": {
-    "@capacitor/core": "^4.0.0",
-    "@capacitor/ios": "^4.0.0",
-    "@capacitor/cli": "^4.0.0"
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/ios": "^6.0.0",
+    "@capacitor/cli": "^6.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
   },
   "scripts": {
-    "build": "echo 'No build script needed'"
+    "build": "echo 'Build script' && mkdir -p dist && touch dist/index.html"
   }
 }
